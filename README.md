@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @FM-Shariar
 - 👀 I’m interested in Programming and Cyber Security
 - 🌱 I’m currently learning Coding Languages(C++,Java,C#)
+- 🌱 Student of American International University-Bangladesh(AIUB)
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me #Discord("F M SHARIAR#6506")/
-     #LinkedIn("https://www.linkedin.com/in/f-m-shariar-05a205277/")
+- 📫 Reach me #Discord("F M SHARIAR#6506")<br/>
+     #LinkedIn("https://www.linkedin.com/in/f-m-shariar-05a205277/")<br/>
+     #E-mail: fmshariar49@gmail.com
 
 <!---
 FM-Shariar/FM-Shariar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
