@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FM-Shariar
 - 👀 I’m interested in Programming and Cyber Security
-- 🌱 I’m currently learning(HTML,CSS,PHP,JAVASCRIPT)
+- 🌱 I’m currently learning(Computer Networking, Machine Learning)
 - 🌱 Student of American International University-Bangladesh(AIUB)
 - 💞️ I’m looking to collaborate on Github
 - 📫 Reach me #Discord("F M SHARIAR#6506")<br/>
