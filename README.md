@@ -82,9 +82,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   
 </div>
-<br>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fm-shariar&show_icons=true&locale=en" alt="fm-shariar" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fm-shariar&langs_count=8)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fm-shariar&" alt="fm-shariar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fm-shariar&" alt="fm-shariar" /></p>
