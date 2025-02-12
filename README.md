@@ -80,7 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img src="https://repository-images.githubusercontent.com/445315771/8a8e0a61-f9c9-47fa-84ea-6ddb9a1ea538" height="40" alt="arduino logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*S76OOT3lQ45ccIwKLg_hRA.png" height="40" alt="arduino logo"  />
   <img width="12" />
 </div>
 <br>
