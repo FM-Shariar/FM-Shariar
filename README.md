@@ -80,7 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img src="https://ciaconference.com/ymeeltuk/2020/11/the-ciacon.png" height="40" alt="matlab logo"  />
+  &nbsp <img src="https://ciaconference.com/ymeeltuk/2020/11/the-ciacon.png" height="40" alt="matlab logo"  />
   <img width="12" />
 </div>
 <br>
