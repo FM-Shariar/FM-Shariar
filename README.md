@@ -80,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img src="https://www.securityweek.com/sites/default/files/images/Metasploit.png" height="40" alt="arduino logo"  />
+  <img width="12" />
 </div>
 <br>
 
