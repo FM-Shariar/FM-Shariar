@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fmshariar49@gmail.com**
 
-- ⚡ Fun fact **Games have only rules...**
+- ⚡ Fun fact **Games have only rules...💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
