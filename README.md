@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/f-m-shariar-05a205277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f-m-shariar-05a205277" height="30" width="40" /></a>
 <a href="https://kaggle.com/fmshariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fmshariar" height="30" width="40" /></a>
 <a href="https://fb.com/fahim.shariar.3701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahim.shariar.3701" height="30" width="40" /></a>
-<a href="https://discord.gg/#6506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6506" height="30" width="40" /></a>
+<a href="https://discord.gg/fmshariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fmshariar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
