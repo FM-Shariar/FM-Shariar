@@ -1,4 +1,3 @@
-<img align="left" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm F M SHARIAR</h1>
 <h3 align="center">A passionate CSE student interested in Cybersecurity.</h3>
 
@@ -7,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fm-shariar" alt="fm-shariar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on [SOC Learning Path](https://app.letsdefend.io/path/cybersecurity-for-students)
 
