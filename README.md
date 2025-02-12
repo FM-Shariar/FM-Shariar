@@ -82,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   &nbsp &nbsp <img src="https://ciaconference.com/ymeeltuk/2020/11/the-ciacon.png" height="40" alt="matlab logo"  />
   <img width="12" />
-  &nbsp <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" height="40" alt="matlab logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" height="40" alt="matlab logo"  />
   <img width="12" />
 </div>
 <br>
