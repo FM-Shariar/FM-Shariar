@@ -33,7 +33,7 @@
   <a href="https://www.facebook.com/fahim.shariar.3701/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="fmshariar" target="_blank">
+  <a href="[fmshariar](http://discordapp.com/users/940213216376668211)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
