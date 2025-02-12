@@ -1,4 +1,4 @@
-img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm F M SHARIAR</h1>
 <h3 align="center">A passionate CSE student interested in Cybersecurity.</h3>
 
