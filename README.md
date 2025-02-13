@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://www.kali.org/blog/kali-linux-1-1-0-release/images/kali-wallpaper-2015-v1.1.0.png" height="40" alt="kali linux logo"  />
+  <img src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png" height="40" alt="kali linux logo"  />
   <img width="12" />
   <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" height="40" alt="ubuntu logo"  />
   <img width="12" />
