@@ -67,13 +67,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" height="40" alt="kali linux logo"  />
+  <img src="https://www.kali.org/blog/kali-linux-1-1-0-release/images/kali-wallpaper-2015-v1.1.0.png" height="40" alt="kali linux logo"  />
   <img width="12" />
   <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.rIONbwiwOm_V37ef5VAyDwHaFj?rs=1&pid=ImgDetMain" height="40" alt="github logo"  />
+  <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter_hu55e85fab71a39b400081f279496f95b4_62056_1200x675_fill_q75_box_smart1.jpg" height="40" alt="jupyter logo"  />
+  <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
