@@ -73,6 +73,10 @@
   <img width="12" />
   <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://th.bing.com/th/id/R.b11ef9d2fd4a0899cb6554d59800ac70?rik=tl2SpwDu6wW1iA&pid=ImgRaw&r=0" height="40" alt="codeblocks logo"  />
+  <img width="12" />
+  <img src="https://img.favpng.com/3/5/7/sublime-text-computer-icons-png-favpng-uNfWN6e8FcQ6EgP1WhsE3cdxA.jpg" height="40" alt="sublime logo"  />
+  <img width="12" />
   <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
