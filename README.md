@@ -85,6 +85,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
+  <img src="https://bl-i.thgim.com/public/news/uqaanv/article65896296.ece/alternates/FREE_1200/FIGMA.jpg" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   
   
