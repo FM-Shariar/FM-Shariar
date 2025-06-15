@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on [SOC Learning Path](https://app.letsdefend.io/path/cybersecurity-for-students)
+- 🔭 I’m currently working on [SOC Learning Path](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
 
 - 🌱 I’m currently learning **Blue Teaming**
 
